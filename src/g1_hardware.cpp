@@ -247,7 +247,7 @@ return_type G1Hardware::read(const rclcpp::Time & /* time */,const rclcpp::Durat
   return return_type::OK;
 }
 
-/*##################################WRITE INTERFACE AND SEND TO COMMAND######################################*/
+/*##################################WRITE INTERFACE AND RECEIVE FROM COMMAND######################################*/
 
 return_type G1Hardware::write(const rclcpp::Time & /* time */,const rclcpp::Duration & /* period */)
 {
