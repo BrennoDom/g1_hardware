@@ -1,7 +1,7 @@
 # Unitree G1 ROS2 Control - Arm Interface
 
-<!--![Unitree G1 Arm Operation](docs/g1_arm_image.jpg)-->  
-*ROS2 Control interface for Unitree G1 7-DOF arms*
+![Unitree G1 Arm Operation](docs/image_moveit.png) 
+
 
 ## Current Capabilities
 - **7-DOF Arm Control** (Both left/right arms + waist joints)
