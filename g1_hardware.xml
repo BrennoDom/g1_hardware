@@ -1,0 +1,9 @@
+<library path="g1_hardware">
+  <class name="g1_hardware/G1Hardware"
+         type="g1_hardware::G1Hardware"
+         base_class_type="hardware_interface::SystemInterface">
+    <description>
+      The G1 interface for ros control
+    </description>
+  </class>
+</library>
