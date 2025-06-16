@@ -1,7 +1,6 @@
 # Unitree G1 ROS2 Control - Arm Interface
 
-![Unitree G1 Arm Operation](docs/image_moveit.png) 
-
+https://github.com/BrennoDom/g1_hardware/blob/main/docs/Demonstration_G1.mp4
 
 ## Current Capabilities
 - **7-DOF Arm Control** (Both left/right arms + waist joints)
